@@ -1,0 +1,134 @@
+[
+  {
+    "name": "about___ar",
+    "path": "/about",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/about/index.vue",
+    "chunkName": "pages/about/index"
+  },
+  {
+    "name": "chapterfive___ar",
+    "path": "/chapterfive",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/chapterfive/index.vue",
+    "chunkName": "pages/chapterfive/index"
+  },
+  {
+    "name": "chapterfour___ar",
+    "path": "/chapterfour",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/chapterfour/index.vue",
+    "chunkName": "pages/chapterfour/index"
+  },
+  {
+    "name": "chapterthree___ar",
+    "path": "/chapterthree",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/chapterthree/index.vue",
+    "chunkName": "pages/chapterthree/index"
+  },
+  {
+    "name": "chaptertwo___ar",
+    "path": "/chaptertwo",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/chaptertwo/index.vue",
+    "chunkName": "pages/chaptertwo/index"
+  },
+  {
+    "name": "contact___ar",
+    "path": "/contact",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/contact/index.vue",
+    "chunkName": "pages/contact/index"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "film___ar",
+    "path": "/film",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/film/index.vue",
+    "chunkName": "pages/film/index"
+  },
+  {
+    "name": "team___ar",
+    "path": "/team",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/team/index.vue",
+    "chunkName": "pages/team/index"
+  },
+  {
+    "name": "trailer___ar",
+    "path": "/trailer",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/trailer/index.vue",
+    "chunkName": "pages/trailer/index"
+  },
+  {
+    "name": "chapterthree-index copy___ar",
+    "path": "/chapterthree/index%20copy",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/chapterthree/index copy.vue",
+    "chunkName": "pages/chapterthree/index copy"
+  },
+  {
+    "name": "about___en",
+    "path": "/en/about",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/about/index.vue",
+    "chunkName": "pages/about/index"
+  },
+  {
+    "name": "chapterfive___en",
+    "path": "/en/chapterfive",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/chapterfive/index.vue",
+    "chunkName": "pages/chapterfive/index"
+  },
+  {
+    "name": "chapterfour___en",
+    "path": "/en/chapterfour",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/chapterfour/index.vue",
+    "chunkName": "pages/chapterfour/index"
+  },
+  {
+    "name": "chapterthree___en",
+    "path": "/en/chapterthree",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/chapterthree/index.vue",
+    "chunkName": "pages/chapterthree/index"
+  },
+  {
+    "name": "chaptertwo___en",
+    "path": "/en/chaptertwo",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/chaptertwo/index.vue",
+    "chunkName": "pages/chaptertwo/index"
+  },
+  {
+    "name": "contact___en",
+    "path": "/en/contact",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/contact/index.vue",
+    "chunkName": "pages/contact/index"
+  },
+  {
+    "name": "film___en",
+    "path": "/en/film",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/film/index.vue",
+    "chunkName": "pages/film/index"
+  },
+  {
+    "name": "team___en",
+    "path": "/en/team",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/team/index.vue",
+    "chunkName": "pages/team/index"
+  },
+  {
+    "name": "trailer___en",
+    "path": "/en/trailer",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/trailer/index.vue",
+    "chunkName": "pages/trailer/index"
+  },
+  {
+    "name": "chapterthree-index copy___en",
+    "path": "/en/chapterthree/index%20copy",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/chapterthree/index copy.vue",
+    "chunkName": "pages/chapterthree/index copy"
+  },
+  {
+    "name": "index___ar",
+    "path": "/",
+    "component": "/Users/houssam/Downloads/makhdoumin-master/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
